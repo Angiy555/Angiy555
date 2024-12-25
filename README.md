@@ -5,3 +5,4 @@
 <img align="left" width="35px" src="./img/css3.svg">  <h2 style="color:#1572B6">CSS 3</h2>
 <img align="left" width="35px" src="./img/python.svg">  <h2 style="color:#3776AB">PYTHON</h2>
 <img align="left" width="35px" src="./img/c.svg">  <h2 style="color:#855DCD">C#</h2>
+<img align="left" width="35px" src="./img/dot_net.svg">  <h2 style="color:#1384C8">ASP.NET CORE</h2>
