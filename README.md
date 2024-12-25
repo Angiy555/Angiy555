@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-Angiy555&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-Angiy555&color=green&style=for-the-badge)
 ## Hi there 👋 I'm Angiy
 
 ## I'm studying the following areas:
